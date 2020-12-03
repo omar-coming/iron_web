@@ -1,0 +1,12 @@
+
+
+.galleryWrapper{
+    width:100%;
+    height:100%;
+    border: red solid 2px;
+}
+
+article>img{
+    height:relative;
+    width:20px;
+}
